@@ -8,7 +8,7 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone 
+* git clone https://github.com/kishan-09k/Cam_Hack_GK
 
 * cd Cam-Hackers
 
